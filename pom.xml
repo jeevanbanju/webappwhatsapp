@@ -25,6 +25,18 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+<dependency>
+  <groupId>com.pinterest.l10nmessages</groupId>
+  <artifactId>l10nmessages-parent</artifactId>
+  <version>1.0.0</version>
+  <type>pom</type>
+</dependency>
+<dependency>
+  <groupId>com.google.maps.android</groupId>
+  <artifactId>maps-compose-widgets</artifactId>
+  <version>2.7.0</version>
+  <type>aar</type>
+</dependency>
   </dependencies>
 
   <build>
